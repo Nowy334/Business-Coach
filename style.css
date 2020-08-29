@@ -241,11 +241,13 @@ nav{
 
 .card__img-1 {
     width: 200px;
+    height: 200px;
     transform: translateX(30px);
 }
 
 .card__img-2 {
     width: 200px;
+    height: 200px;
     transform: translate(-30px, 6px);
 }
 
@@ -345,6 +347,7 @@ nav{
 
 .img-contact{
     width:420px;
+    height:560px;
 }
 
 .section-contact__row-2{
@@ -595,6 +598,7 @@ nav{
 
     .img-contact{
         width:350px;
+        height:466px;
     }
     
     .section-contact__row-1{
@@ -993,6 +997,7 @@ nav{
 
     .img-contact{
         width:350px;
+        height:466px;
     }
     
     .section-contact__row-1{
@@ -1180,6 +1185,7 @@ nav{
 
         .img-contact{
             width:300px;
+            height:400px;
         }
         
         .section-contact__row-2{
